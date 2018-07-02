@@ -1,5 +1,13 @@
 # Cipher Info
 
+### How to use
+```sh
+# Download the repositories.
+# Some better script can be updated.
+./fake_repo.sh
+```
+
+### Cipher Infos
 + PBKDF2
   * [PBKDF2 wiki](https://en.wikipedia.org/wiki/PBKDF2)
   * [List of PBKDF2 implementations](https://en.wikipedia.org/wiki/List_of_PBKDF2_implementations)
